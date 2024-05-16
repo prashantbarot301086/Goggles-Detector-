@@ -1,4 +1,18 @@
 # Goggles-Detector-
+
+# demo
+
+
+
+
+https://github.com/prashantbarot301086/Goggles-Detector-/assets/155127348/558771d3-4098-4d6b-ac17-2bdebcf7fb57
+
+
+https://youtu.be/_PWClPiqrEc
+
+
+
+
 To detect goggles using YOLO (You Only Look Once), you would need to follow these general steps:
 
 1. **Data Collection and Annotation**: Gather a dataset of images containing people wearing goggles. Annotate these images to mark the regions where the goggles are present.
